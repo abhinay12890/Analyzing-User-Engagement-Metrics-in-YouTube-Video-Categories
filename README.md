@@ -11,7 +11,7 @@ Data Analysis on YouTube Video Statistics.ipynb: Jupyter Notebook comprising all
 
 data/:Directory that includes dataset(s) used in the analysis.
 
-README.md: This document, which describes the project and how to reproduce its results.
+README.md: This document, which describes the project.
 
 Dataset The dataset analyzed here contains some YouTube video statistics including the following variables:
 
