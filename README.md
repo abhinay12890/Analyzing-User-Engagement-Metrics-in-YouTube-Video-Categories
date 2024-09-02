@@ -9,9 +9,9 @@ These statistics will help in drawing out insights on the performance of videos 
 
 Data Analysis on YouTube Video Statistics.ipynb: Jupyter Notebook comprising all the data analyses, data preprocessing, data visualization, and results interpretation.
 
-data/:Directory that includes dataset(s) used in the analysis.
+- `Data/`:Directory that includes dataset(s) used in the analysis.
 
-README.md: This document, which describes the project.
+- `README.md`: This document, which describes the project.
 
 Dataset The dataset analyzed here contains some YouTube video statistics including the following variables:
 
