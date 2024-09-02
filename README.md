@@ -3,7 +3,7 @@
 ## Overview
 
 The project deals with data analysis of YouTube video statistics.
-These statistics will help in drawing out insights on the performance of videos based on different measures such as views, likes, dislikes, and comments among different countries like CA, DE, FR, GB, IN, MX, RU, US. The analysis will be about studying the relationship between these metrics in different categories.
+These statistics will help in drawing out insights on the performance of videos based on different measures such as views, likes, dislikes, and comments among different countries like CA, DE, FR, GB, IN, MX, RU, US. The analysis will be about studying the relationship between these metrics in different categories. This is done in Jupyter Notebook using Python.
 
 ## Project Structure
 
@@ -12,6 +12,7 @@ Data Analysis on YouTube Video Statistics.ipynb: Jupyter Notebook comprising all
 - `Data/`:Directory that includes dataset(s) used in the analysis.
 
 - `README.md`: This document, which describes the project.
+- `Data Analysis on Youtude Video Statistics.ipynb`: The Code for the Analysis.
 
 Dataset The dataset analyzed here contains some YouTube video statistics including the following variables:
 
